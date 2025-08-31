@@ -1,0 +1,11 @@
+1. create the web app via chrome
+2. then go to 
+
+/home/toru/.local/share/applications
+
+using file explorer.
+3. copy just the app-id.
+
+4. then bind on hyprland.conf
+
+chromium --app-id=...app-id that was copied...
